@@ -1,0 +1,1 @@
+enum QRtypes { http, geo }
